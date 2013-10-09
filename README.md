@@ -8,6 +8,11 @@ This repository contains materials related to the workshop, such as the slides o
 the talks presented.  For more information, please see the workshop webpage:
 http://universalalgebra.wordpress.com/meetings/2013-workshop-on-computational-universal-algebra/
 
+To download all the talks and abstracts at once, clone this repository with the command
+
+    git clone git@github.com:UniversalAlgebra/WCUA2013.git
+
+
 Featured Speakers
 -----------------
 
