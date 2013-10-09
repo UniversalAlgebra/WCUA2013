@@ -2,8 +2,7 @@ WCUA 2013
 =========
 
 A one day workshop on computational universal algebra was held on Friday,
-October 4, 2013 (before the AMS sectional meeting) at the University of
-Louisville Natural Sciences Building, Room 212D. 
+October 4, 2013 at the University of Louisville Natural Sciences Building, Room 212D. 
 
 This repository contains materials related to the workshop, such as the slides of
 the talks presented.  For more information, please see the workshop webpage:
